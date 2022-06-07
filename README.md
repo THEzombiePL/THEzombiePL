@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krzystof</h1>
+<h1 align="center">Hi 👋, I'm Krzysztof</h1>
 <h3 align="center">A begginer programmer from Poland</h3>
 
 - 🔭 I’m currently working on [ZombieBot](https://www.zombiebot.pl)
