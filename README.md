@@ -19,7 +19,7 @@ I'm a begginer programmer from Poland
 
 ## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=THEzombiePL&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" alt="thezombiepl github stats"/></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEzombiePL&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="thezombiepl most used languages"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEzombiePL&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="thezombiepl most used languages"/></p>
 
 ## 💻 Languages and Tools:
 
