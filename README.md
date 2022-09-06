@@ -16,7 +16,7 @@ I'm a begginer programmer from Poland
 <a href="https://discord.gg/MsfFy8ZdJf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MsfFy8ZdJf" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=THEzombiePL&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" alt="thezombiepl github stats"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEzombiePL&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="thezombiepl most used languages"/></p>
 
