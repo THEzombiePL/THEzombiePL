@@ -1,7 +1,7 @@
 # Hi 👋, I'm Krzysztof
 
 ## 🚀 About Me
-I'm a 
+I'm a begginer programmer from Poland
 
 <h3 align="center">A begginer programmer from Poland</h3>
 
