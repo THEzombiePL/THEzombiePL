@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a begginer programmer from Poland
 
-<h3 align="center">A begginer programmer from Poland</h3>
+<!--<h3 align="center">A begginer programmer from Poland</h3>-->
 
 - 🔭 I’m currently working on [ZombieBot](https://www.zombiebot.pl) and [Zombie RPC](https://github.com/THEzombiePL/Zombie_RPC)
 
