@@ -10,7 +10,7 @@ I'm a begginer programmer from Poland
 <!--<h3 align="center">A begginer programmer from Poland</h3>-->
 
 - 🔭 I’m currently working on [ZombieBot](https://www.zombiebot.pl) and [Zombie RPC](https://github.com/THEzombiePL/Zombie_RPC)
-- 🌐 My portfolio: [](https://thezombiepl.github.com/)
+- 🌐 My portfolio: https://thezombiepl.github.com/
 
 <h3 align="left">👥 Contact:</h3>
 <p align="left">
