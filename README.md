@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=THEzombiePL&icon=0&color=9)](https://visitcount.itsvg.in)
+
 # Hi 👋, I'm Krzysztof
 
 ## 🚀 About Me
@@ -24,3 +27,6 @@ I'm a begginer programmer from Poland
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thezombiepl&show_icons=true&locale=en&layout=compact" alt="thezombiepl"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thezombiepl&show_icons=true&locale=en" alt="thezombiepl"/></p>
+
+### 😂 Random Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
