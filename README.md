@@ -12,6 +12,8 @@ I'm a begginer programmer from Poland
 <a href="https://discord.gg/MsfFy8ZdJf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MsfFy8ZdJf" height="30" width="40" /></a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=THEzombiePL&theme=dark&hide_border=false&count_private=true&layout=compact
+
 ## 💻 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
