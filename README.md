@@ -19,6 +19,7 @@ I'm a begginer programmer from Poland
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=THEzombiePL&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" alt="thezombiepl github stats"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEzombiePL&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="thezombiepl most used languages"/></p>
+
 ## 💻 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
