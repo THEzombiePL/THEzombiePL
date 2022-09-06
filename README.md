@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
 <h3 align="center">A begginer programmer from Poland</h3>
 
-- 🔭 I’m currently working on [ZombieBot](https://www.zombiebot.pl)
+- 🔭 I’m currently working on [ZombieBot](https://www.zombiebot.pl) and [Zombie RPC](https://github.com/THEzombiePL/Zombie_RPC)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
