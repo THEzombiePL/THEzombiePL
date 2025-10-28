@@ -4,7 +4,7 @@
 
 ---
 
-# Hi 👋, I'm Krzysztof
+# Hi 👋, I'm THEzombiePL
 ### I’m currently working on:
 
 - ### 🛡️ AntiVPN API
@@ -23,6 +23,9 @@
 
 <h3 align="left">👥 Contact:</h3>
 <p align="left"><a href="https://discord.gg/MsfFy8ZdJf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MsfFy8ZdJf" height="30" width="40" /></a></p>
+
+<img width="960" height="362" alt="h2p_code" src="https://github.com/user-attachments/assets/427eb1b5-e7b3-407f-8483-83096dd809f8" />
+
 
 ## 📊 GitHub Stats:
 
